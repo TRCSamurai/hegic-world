@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Twitter",
+    "icon": "social/twitter.svg",
+    "url": "https://twitter.com/HegicOptions"
+  },
+  {
+    "name": "Telegram",
+    "icon": "social/telegram.svg",
+    "url": "https://t.me/HegicOptions"
+  },
+  {
+    "name": "Discord",
+    "icon": "social/discord.svg",
+    "url": "https://discordapp.com/invite/znjdj8q"
+  },
+  {
+    "name": "Github",
+    "icon": "social/git-hub.svg",
+    "url": "https://github.com/hegic"
+  },
+  {
+    "name": "Medium",
+    "icon": "social/medium2.svg",
+    "url": "https://medium.com/hegic"
+  },
+  {
+    "name": "DeFi Pulse",
+    "icon": "social/icon-defipulse-min.svg",
+    "url": "https://defipulse.com/"
+  }
+]

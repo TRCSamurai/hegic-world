@@ -1,0 +1,175 @@
+[
+  {
+    "category": "ecosystem",
+    "title": "Ecosystem",
+    "description": "",
+    "list": [
+      {
+        "title": "zLOT Finance",
+        "description": "The first staking protocol built upon HEGIC",
+        "image": "ecosystem/zlot-logo.png",
+        "url": "https://zlot.finance/",
+        "authors": [
+          {
+            "name": "zLOTFinance",
+            "url": "https://twitter.com/zLOTFinance"
+          }
+        ]
+      },
+      {
+        "title": "Hegic Analytics",
+        "description": "On-chain options trading protocol analytics",
+        "image": "ecosystem/hegic.jpg",
+        "url": "https://duneanalytics.com/slash125/hegic-v2",
+        "authors": [
+          {
+            "name": "aaaaaaaaaa",
+            "url": ""
+          },
+          {
+            "name": "mazzi",
+            "url": ""
+          },
+          {
+            "name": "slasher125",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Hegic Staking",
+        "description": "Hegic Staking Lots for everyone",
+        "image": "ecosystem/hegic-logo.png",
+        "url": "https://www.hegicstaking.co/",
+        "authors": [
+          {
+            "name": "Hegic",
+            "url": "https://twitter.com/Shuffledex"
+          }
+        ]
+      },
+      {
+        "title": "Hegician Finance",
+        "description": "An all-in-one dashboard for all the hegician citadel",
+        "image": "ecosystem/hegic-logo.png",
+        "url": "https://hegician.finance/",
+        "authors": [
+          {
+            "name": "Shuffledex",
+            "url": "https://twitter.com/Shuffledex"
+          }
+        ]
+      },
+      {
+        "title": "Hetoro",
+        "description": "Analysis of on-chain options data and the Hegic options traders leaderboard",
+        "image": "ecosystem/hetoro-logo.jpg",
+        "url": "https://hetoro.com",
+        "authors": [
+          {
+            "name": "CryptoSamurai",
+            "url": "https://twitter.com/CryptoSamurai"
+          }
+        ]
+      },
+      {
+        "title": "Hegic yield estimator",
+        "description": "Hegic liquidity mining yield estimator",
+        "image": "ecosystem/hegic-logo.png",
+        "url": "https://larrypcdotcom.github.io/hegic-yield-estimator/",
+        "authors": [
+          {
+            "name": "Larrypc.eth",
+            "url": "https://twitter.com/Larrypcdotcom"
+          }
+        ]
+      },
+      {
+        "title": "Hegic V888 Subgraph",
+        "description": "Hegic V888 Subgraph",
+        "image": "ecosystem/hegic-logo.png",
+        "url": "https://thegraph.com/explorer/subgraph/ppunky/hegic-v888",
+        "authors": [
+          {
+            "name": "ppunky",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Toxic Poeth",
+        "description": "NFT & MEME provocateur",
+        "image": "ecosystem/toxic-provocator.gif",
+        "url": "https://app.rarible.com/toxicpoeth/onsale",
+        "authors": [
+          {
+            "name": "Toxic Poeth",
+            "url": "https://twitter.com/toxicpoeth"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "github",
+    "title": "Tools",
+    "description": "",
+    "list": [
+      {
+        "title": "Hegic Keeper",
+        "description": "Hegic Keeper",
+        "image": "ecosystem/github-icon.svg",
+        "url": "https://github.com/Macarse/hegicKeep3r",
+        "authors": [
+          {
+            "name": "Macarse",
+            "url": ""
+          }
+        ]
+      },
+      {
+        "title": "Greek Calculator",
+        "description": "Greek Calculator",
+        "image": "ecosystem/github-icon.svg",
+        "url": "https://github.com/mazzi888/HegicGreeks/blob/master/computePnl.py",
+        "authors": [
+          {
+            "name": "mazzi",
+            "url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "aquire",
+    "title": "Aquire HEGIC",
+    "description": "",
+    "list": [
+      {
+        "title": "Uniswap",
+        "description": "Swap ETH for HEGIC",
+        "image": "ecosystem/uniswap-logo.svg",
+        "url": "https://app.uniswap.org/#/swap/0x584bc13c7d411c00c01a62e8019472de68768430"
+      },
+      {
+        "title": "Binance",
+        "description": "Swap BUSD for HEGIC",
+        "image": "ecosystem/binance-logo.svg",
+        "url": "https://www.binance.com/en/trade/HEGIC_BUSD"
+      },
+      {
+        "title": "Binance",
+        "description": "Swap ETH for HEGIC",
+        "image": "ecosystem/binance-logo.svg",
+        "url": "https://www.binance.com/en/trade/HEGIC_ETH"
+      },
+      {
+        "title": "Okex",
+        "description": "Swap USDT for HEGIC",
+        "image": "ecosystem/oekx-logo.svg",
+        "url": "https://www.okex.com/markets/spot?product=hegic_usdt"
+      }
+    ]
+  }
+]
