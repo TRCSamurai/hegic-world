@@ -34,7 +34,7 @@
       <div class="container mx-auto px-8 pt-12">
         <p class="text-center text-sm mb-2">Made by<a href="https://twitter.com/CryptoSamurai" target="_blank"
                                                       class="ml-1 text-primary">🧙‍♂ CryptoSamurai</a>.
-          <a href="https://etherscan.io/address/0x11Ac41eF94D95197525620275e11a5Cb8c32363C" target="_blank"> Buy me 🍪</a>. <a href="https://github.com/" class="underline" target="_blank"> Contribute</a></p>
+          <a href="https://etherscan.io/address/0x11Ac41eF94D95197525620275e11a5Cb8c32363C" target="_blank"> Buy me a 🍪</a>. <a href="https://github.com/" class="underline" target="_blank"> Contribute</a></p>
       </div>
     </footer>
   </div>
