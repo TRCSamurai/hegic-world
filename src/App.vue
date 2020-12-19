@@ -6,7 +6,7 @@
         <h1 class="text-center font-title text-4xl md:text-5xl text-primary flex justify-center items-center mb-8"><img
             src="@/assets/globe.svg" class="mr-2" alt=""> HEGIC </h1>
         <p class="text-center text-lg text-secondary font-medium font-body"> A curated collection of resources from the
-          <a href="https://hegic.co" class="uppercase font-title font-medium text-primary" target="_blank">Hegic</a> ecosystem.</p>
+          <a href="https://www.hegic.co" class="uppercase font-title font-medium text-primary" target="_blank">Hegic</a> ecosystem.</p>
       </div>
     </header>
     <main class="">
