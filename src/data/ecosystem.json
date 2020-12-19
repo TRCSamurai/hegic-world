@@ -167,8 +167,21 @@
       {
         "title": "Okex",
         "description": "Swap USDT for HEGIC",
-        "image": "ecosystem/oekx-logo.svg",
+        "image": "ecosystem/okex-logo.svg",
         "url": "https://www.okex.com/markets/spot?product=hegic_usdt"
+      }
+    ]
+  },
+  {
+    "category": "lend",
+    "title": "Lending",
+    "description": "",
+    "list": [
+      {
+        "title": "Cream",
+        "description": "Lend & Borrow HEGIC",
+        "image": "ecosystem/cream-logo.png",
+        "url": "https://app.cream.finance/"
       }
     ]
   }
