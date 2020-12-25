@@ -5,6 +5,18 @@
     "description": "",
     "list": [
       {
+        "title": "Whiteheart Finance",
+        "description": "Hedge contracts - help DeFi users to protect value of their holdings in ETH and WBTC",
+        "image": "ecosystem/whiteheart-logo.png",
+        "url": "https://www.whiteheart.finance",
+        "authors": [
+          {
+            "name": "Whiteheart",
+            "url": "https://twitter.com/WhiteheartDeFi"
+          }
+        ]
+      },
+      {
         "title": "zLOT Finance",
         "description": "The first staking protocol built upon HEGIC",
         "image": "ecosystem/zlot-logo.png",
