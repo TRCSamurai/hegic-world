@@ -85,6 +85,18 @@
         ]
       },
       {
+        "title": "Hegic Autostake",
+        "description": "Tool that helps Hegic liquidity providers effortlessly redeem & stake their farmed $rHEGIC.",
+        "image": "ecosystem/hegic-logo.png",
+        "url": "https://hegic.autostake.co/",
+        "authors": [
+          {
+            "name": "Larrypc.eth",
+            "url": "https://twitter.com/Larrypcdotcom"
+          }
+        ]
+      },
+      {
         "title": "Hegic yield estimator",
         "description": "Hegic liquidity mining yield estimator",
         "image": "ecosystem/hegic-logo.png",
@@ -154,7 +166,7 @@
     ]
   },
   {
-    "category": "aquire",
+    "category": "aquire_hegic",
     "title": "Aquire HEGIC",
     "description": "",
     "list": [
@@ -181,6 +193,19 @@
         "description": "Swap USDT for HEGIC",
         "image": "ecosystem/okex-logo.svg",
         "url": "https://www.okex.com/markets/spot?product=hegic_usdt"
+      }
+    ]
+  },
+  {
+    "category": "aquire_white",
+    "title": "Aquire WHITE",
+    "description": "",
+    "list": [
+      {
+        "title": "Uniswap",
+        "description": "Swap ETH for WHITE",
+        "image": "ecosystem/uniswap-logo.svg",
+        "url": "https://app.uniswap.org/#/swap?outputCurrency=0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44"
       }
     ]
   },
