@@ -49,6 +49,18 @@
         ]
       },
       {
+        "title": "Hegic Visual Analytics",
+        "description": "Hegic's visual analytics",
+        "image": "ecosystem/hegic.jpg",
+        "url": "https://hegic-analytics.herokuapp.com/",
+        "authors": [
+          {
+            "name": "ppunky",
+            "url": ""
+          }
+        ]
+      },
+      {
         "title": "Hegic Staking",
         "description": "Hegic Staking Lots for everyone",
         "image": "ecosystem/hegic-logo.png",
