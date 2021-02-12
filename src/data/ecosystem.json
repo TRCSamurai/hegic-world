@@ -93,6 +93,10 @@
           {
             "name": "CryptoSamurai",
             "url": "https://twitter.com/CryptoSamurai"
+          },
+          {
+            "name": "jmonteer",
+            "url": "https://twitter.com/jmonteer23"
           }
         ]
       },
@@ -157,6 +161,18 @@
           {
             "name": "Toxic Poeth",
             "url": "https://twitter.com/toxicpoeth"
+          }
+        ]
+      },
+      {
+        "title": "Hegic V2 Valut",
+        "description": "Hegic Yearn V2 Valut",
+        "image": "ecosystem/hegic-logo.png",
+        "url": "https://yearn.finance/vaults",
+        "authors": [
+          {
+            "name": "yearn.finance",
+            "url": "https://twitter.com/iearnfinance"
           }
         ]
       }
